@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -41,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
