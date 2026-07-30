@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
