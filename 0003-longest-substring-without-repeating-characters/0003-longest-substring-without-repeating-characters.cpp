@@ -1,4 +1,6 @@
 class Solution {
+    // i can store last position so that i don't need to use while loop
+    // Revise this questions 
 public:
     int lengthOfLongestSubstring(string s) {
         int l =0 ,r = 0, len = 0, maxlen = 0;
