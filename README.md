@@ -81,6 +81,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
