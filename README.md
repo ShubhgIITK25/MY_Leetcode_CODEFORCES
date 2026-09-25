@@ -6,111 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 3 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
-- [greedy](#greedy) (3)
+- [*special](#special) (1)
 - [implementation](#implementation) (3)
-- [math](#math) (2)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (2)
 
 ---
 
-### brute force
+### *special
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/231/A%20-%20Team/solution.cpp) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
-
-### greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/231/A%20-%20Team/solution.cpp) |
-| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
-| 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
-| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
-| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ---
 
 > Generated by [CFPusher — Codeforces to GitHub](https://github.com/SarJ2004/cf-pusher)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0035-search-insert-position) |
-| [0075-sort-colors](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0075-sort-colors) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0075-sort-colors) |
-| [2149-rearrange-array-elements-by-sign](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0075-sort-colors) |
-## Quicksort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0075-sort-colors) |
-## Bubble Sort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0075-sort-colors) |
-## Simulation
-|  |
-| ------- |
-| [2149-rearrange-array-elements-by-sign](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
-## Binary Search
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/ShubhgIITK25/MY_Leetcode/tree/master/0035-search-insert-position) |
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/tree/master/0009-palindrome-number) |
-<!---LeetCode Topics End-->
