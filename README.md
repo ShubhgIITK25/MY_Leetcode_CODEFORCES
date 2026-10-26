@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 11 | 8 |
 
 ---
 
@@ -14,10 +14,12 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (1)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
-- [math](#math) (2)
-- [strings](#strings) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (6)
+- [math](#math) (3)
+- [sortings](#sortings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -33,11 +35,19 @@
 |---|---------|------------|----------|
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### implementation
@@ -47,6 +57,8 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### math
@@ -54,35 +66,22 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ---
 
 > Generated by [CFPusher — Codeforces to GitHub](https://github.com/SarJ2004/cf-pusher)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/tree/master/0070-climbing-stairs) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/tree/master/0070-climbing-stairs) |
-| [0198-house-robber](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/tree/master/0198-house-robber) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/tree/master/0070-climbing-stairs) |
-## Array
-|  |
-| ------- |
-| [0198-house-robber](https://github.com/ShubhgIITK25/MY_Leetcode_CODEFORCES/tree/master/0198-house-robber) |
-<!---LeetCode Topics End-->
